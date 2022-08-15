@@ -1,0 +1,18 @@
+*, html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    border: none;
+    outline: none;
+  }
+  
+.picture {
+    text-align: center;
+}
+
+.svg {
+    width: 1300px;
+    height: 1006px;
+}
